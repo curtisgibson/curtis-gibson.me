@@ -1,0 +1,27 @@
+html, body {
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background: #FFF;
+  font-family: rubrik_light;
+}
+#title {
+	font-size: 5vw;
+	color: #EEE;
+	text-align: center;
+	left: 0;
+	line-height: 50px;
+	margin: auto;
+	margin-top: -25px;
+	position: absolute;
+	top: 50%;
+	width: 100%;
+}
+span {
+	color: #FF0066;
+}
+a, a:visited {
+	text-decoration: none;
+	color: #0A0A0A;
+}

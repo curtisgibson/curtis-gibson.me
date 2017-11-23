@@ -1,0 +1,157 @@
+/* I <3 Rubrik */
+
+@font-face {
+    font-family: 'rubrik';
+    src: url('Rubrik-webfont.eot');
+    src: url('Rubrik-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rubrik-webfont.woff2') format('woff2'),
+         url('Rubrik-webfont.woff') format('woff'),
+         url('Rubrik-webfont.ttf') format('truetype'),
+         url('Rubrik-webfont.svg#rubrikregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'rubrik_semibold';
+    src: url('Rubrik SemiBold-webfont.eot');
+    src: url('Rubrik SemiBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rubrik SemiBold-webfont.woff2') format('woff2'),
+         url('Rubrik SemiBold-webfont.woff') format('woff'),
+         url('Rubrik SemiBold-webfont.ttf') format('truetype'),
+         url('Rubrik SemiBold-webfont.svg#rubrik_semiboldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'rubrik_light';
+    src: url('Rubrik Light-webfont.eot');
+    src: url('Rubrik Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rubrik Light-webfont.woff2') format('woff2'),
+         url('Rubrik Light-webfont.woff') format('woff'),
+         url('Rubrik Light-webfont.ttf') format('truetype'),
+         url('Rubrik Light-webfont.svg#rubrik_lightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'rubrik_light_italic';
+    src: url('Rubrik Light Italic-webfont.eot');
+    src: url('Rubrik Light Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rubrik Light Italic-webfont.woff2') format('woff2'),
+         url('Rubrik Light Italic-webfont.woff') format('woff'),
+         url('Rubrik Light Italic-webfont.ttf') format('truetype'),
+         url('Rubrik Light Italic-webfont.svg#rubrik_light_italicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'rubrik_bold_italic';
+    src: url('Rubrik Bold Italic-webfont.eot');
+    src: url('Rubrik Bold Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rubrik Bold Italic-webfont.woff2') format('woff2'),
+         url('Rubrik Bold Italic-webfont.woff') format('woff'),
+         url('Rubrik Bold Italic-webfont.ttf') format('truetype'),
+         url('Rubrik Bold Italic-webfont.svg#rubrik_bold_italicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'rubrik_semibold_italic';
+    src: url('Rubrik SemiBold Italic-webfont.eot');
+    src: url('Rubrik SemiBold Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rubrik SemiBold Italic-webfont.woff2') format('woff2'),
+         url('Rubrik SemiBold Italic-webfont.woff') format('woff'),
+         url('Rubrik SemiBold Italic-webfont.ttf') format('truetype'),
+         url('Rubrik SemiBold Italic-webfont.svg#rubrik_semibold_italicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'rubrik_medium';
+    src: url('Rubrik Medium-webfont.eot');
+    src: url('Rubrik Medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rubrik Medium-webfont.woff2') format('woff2'),
+         url('Rubrik Medium-webfont.woff') format('woff'),
+         url('Rubrik Medium-webfont.ttf') format('truetype'),
+         url('Rubrik Medium-webfont.svg#rubrik_mediumregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'rubrik_medium_italic';
+    src: url('Rubrik Medium Italic-webfont.eot');
+    src: url('Rubrik Medium Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rubrik Medium Italic-webfont.woff2') format('woff2'),
+         url('Rubrik Medium Italic-webfont.woff') format('woff'),
+         url('Rubrik Medium Italic-webfont.ttf') format('truetype'),
+         url('Rubrik Medium Italic-webfont.svg#rubrik_medium_italicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'rubrik_italic';
+    src: url('Rubrik Italic-webfont.eot');
+    src: url('Rubrik Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rubrik Italic-webfont.woff2') format('woff2'),
+         url('Rubrik Italic-webfont.woff') format('woff'),
+         url('Rubrik Italic-webfont.ttf') format('truetype'),
+         url('Rubrik Italic-webfont.svg#rubrik_italicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'rubrik_extralight';
+    src: url('Rubrik ExtraLight-webfont.eot');
+    src: url('Rubrik ExtraLight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rubrik ExtraLight-webfont.woff2') format('woff2'),
+         url('Rubrik ExtraLight-webfont.woff') format('woff'),
+         url('Rubrik ExtraLight-webfont.ttf') format('truetype'),
+         url('Rubrik ExtraLight-webfont.svg#rubrik_extralightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'rubrik_extralight_italic';
+    src: url('Rubrik ExtraLight Italic-webfont.eot');
+    src: url('Rubrik ExtraLight Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rubrik ExtraLight Italic-webfont.woff2') format('woff2'),
+         url('Rubrik ExtraLight Italic-webfont.woff') format('woff'),
+         url('Rubrik ExtraLight Italic-webfont.ttf') format('truetype'),
+         url('Rubrik ExtraLight Italic-webfont.svg#rubrik_extralight_italicRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'rubrik_bold';
+    src: url('Rubrik Bold-webfont.eot');
+    src: url('Rubrik Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rubrik Bold-webfont.woff2') format('woff2'),
+         url('Rubrik Bold-webfont.woff') format('woff'),
+         url('Rubrik Bold-webfont.ttf') format('truetype'),
+         url('Rubrik Bold-webfont.svg#rubrik_boldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
